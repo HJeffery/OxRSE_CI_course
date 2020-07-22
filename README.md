@@ -1,4 +1,5 @@
 ![Python 3.6 - 3.8](https://github.com/HJeffery/OxRSE_CI_course/workflows/Python%203.6%20-%203.8/badge.svg)
+![Windows macOS and Linux](https://github.com/HJeffery/OxRSE_CI_course/workflows/Windows%20macOS%20and%20Linux/badge.svg)
 
 # OxRSE Continuous Integration course
 
